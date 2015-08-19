@@ -1,7 +1,6 @@
 # CSS Kitten Wheelbarrow
 
-<img src="https://s3.amazonaws.com/after-school-assets/kitten-wheelbarrow.jpg" width="300" align="right" hspace="10">
-
+<img src="https://s3.amazonaws.com/after-school-assets/kitten-wheelbarrow.jpg" width="200" align="right" hspace="10">
 
 You were moving a litter of kitten from the bar to the house when you hit a rock and the kittens fell out. OH NO! They're just babies, so it's important that we get them back in the wheelbarrow before they all run away. But have no fear, you can use CSS selectors to put the kittens back in the wheelbarrow. 
 
