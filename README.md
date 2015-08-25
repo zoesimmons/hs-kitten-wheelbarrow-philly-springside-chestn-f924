@@ -14,7 +14,7 @@ In Learn.co, view the Album Cover lab. Click on `Open in Nitrous` in the top lef
 
 ### Step 2:
 
-We're going to be using `index.html as a reference, and coding our solutions in `css/place-kitty.css`.
+We're going to be using `index.html` as a reference, and coding our solutions in `css/place-kitty.css`.
 
 You'll want to look on the left side of Nitrous (the file navigator) and look at `Nitrous < Code < Labs < HS Kitten Wheelbarrow`. To open the files to edit them, you can use the file navigator on the left side. Double click on `index.html` and and `place-kitty.css` to open them in the text editor.
 
