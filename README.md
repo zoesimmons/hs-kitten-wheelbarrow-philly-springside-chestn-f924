@@ -38,3 +38,7 @@ Use your knowledge of CSS selectors to fill in the appropriate selectors to move
 ### Step 5
 
 Don't forget to save your changes before you refresh in the browser. Also, remember to shut down your server when you're done with this lab so you can keep working!
+
+### Step 6
+
+Lastly, you need to save your code to GitHub and mark this lab as done in Learn by entering in Nitrous, in terminal `learn submit`.
