@@ -8,9 +8,9 @@ You were moving a litter of kitten from the barn to the house when you hit a roc
 
 ###Step 1:
 
-In Learn.co, view the Album Cover lab. Click on `Open in Nitrous` in the top left corner:
+In Learn.co, view the Album Cover lab. Click on `Open` in the top left corner:
 
-<img src="https://s3.amazonaws.com/after-school-assets/open-in-nitrous.png">
+<img src="https://s3.amazonaws.com/after-school-assets/new-open-in-nitrous.png">
 
 ### Step 2:
 
