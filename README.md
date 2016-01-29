@@ -43,4 +43,4 @@ Don't forget to save your changes before you refresh in the browser. Also, remem
 
 Lastly, you need to save your code to GitHub and mark this lab as done in Learn by entering in Nitrous, in terminal `learn submit`.
 
-<a href='https://learn.co/lessons/hs-kitten-wheelbarrow' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-kitten-wheelbarrow' title='CSS Kitten Wheelbarrow'>CSS Kitten Wheelbarrow</a> on Learn.co and start learning to code for free.</p>
